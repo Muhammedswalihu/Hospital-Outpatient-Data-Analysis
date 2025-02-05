@@ -1,8 +1,7 @@
 # Hospital-Outpatient-Data-Analysis
 
 ![image alt](https://github.com/Muhammedswalihu/Hospital-Outpatient-Data-Analysis/blob/main/Hospitl%20excel%201.jpeg?raw=true)
-
-
+![image alt](https://github.com/Muhammedswalihu/Hospital-Outpatient-Data-Analysis/blob/main/hospital%20excel%202.jpeg?raw=true)
 
 Project Goal: Analyzed hospital outpatient data to improve the quality of healthcare delivery and enhance operational efficiency.
 Tools and Technologies: Python, Excel
